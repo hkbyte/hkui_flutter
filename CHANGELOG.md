@@ -1,3 +1,4 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - 2021/04/16.
 
-* TODO: Describe initial release.
+- Feature: Notify Card
+- Feature: Revealer
